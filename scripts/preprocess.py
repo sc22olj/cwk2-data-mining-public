@@ -1,3 +1,5 @@
+# This code is taken from weasel tutorials for medical NER. See https://github.com/explosion/projects/blob/v3/tutorials/ner_pytorch_medical/scripts/preprocess.py
+
 from collections import defaultdict
 import random
 from typing import List
